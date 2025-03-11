@@ -1,0 +1,17 @@
+.text1{
+    font-size: clamp(9px, 2vw, 16px);
+}
+.heading{
+    font-size:clamp(25px,7vw,36px);
+    font-weight: bold;
+    line-height: 1;
+}
+.text-supercard{
+    font-size: clamp(10px, 2.4vw, 24px);
+}
+.text-parameter{
+    font-size: clamp(8px,1.8vw, 28px);
+   font-weight:400;
+   color:white;
+
+}

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Yrsa:ital,wght@0,300..700;1,300..700&display=swap');
+.text1{
+    font-size: clamp(8px, 2vw, 16px);
+}
+.text2{
+    font-size: clamp(10px, 2.3vw, 16px);
+}
+.heading{
+    font-size:clamp(25px,7vw,36px);
+    font-weight: bold;
+   
+}
+.navbar-heading{
+    font-size:clamp(10px,4vw,36px);
+    font-weight: bold;
+    
+}
+.text3{
+    font-size: clamp(7px, 1.8vw, 14px);
+}
+.hourly-temp{
+    font-size: clamp(12px, 7vw, 30px);
+}
+.yrsa-regular {
+    font-family: "Yrsa", serif;
+    font-optical-sizing: auto;
+    
+    font-style: italic;
+  }
+  .news-heading{
+    font-size:clamp(18px,5vw,36px);
+    font-weight: bold;
+   
+  }
