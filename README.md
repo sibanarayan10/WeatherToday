@@ -18,9 +18,9 @@ Weather Today is a fully responsive weather forecast application built using Rea
 
 📸 Screenshots
 
-🌍 ![Home Page]('./public/home.png)
+🌍 ![Home Page](./public/home.png)
 
-⏳ ![Hourly Weather Report]('./public/hour.png)
+⏳ ![Hourly Weather Report](./public/hour.png)
 
 🛠 Tech Stack
 
