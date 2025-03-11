@@ -1,5 +1,3 @@
-# React + Vite
+# WeatherToday
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+A react + tailwindcss project , handled to get weather forecast daywise and also hourly weather report of any place in the world
